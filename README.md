@@ -1,2 +1,2 @@
 # foo-bar
-demo repo
+demo repo feature 1
